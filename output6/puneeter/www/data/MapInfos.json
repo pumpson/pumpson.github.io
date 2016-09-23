@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":785,"scrollY":475.5},
+{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":1,"scrollX":777,"scrollY":820.5},
+{"id":3,"expanded":false,"name":"Fishing Village","order":3,"parentId":2,"scrollX":777,"scrollY":1307.5},
+{"id":4,"expanded":false,"name":"Ruins","order":4,"parentId":2,"scrollX":777,"scrollY":884.5},
+{"id":5,"expanded":false,"name":"Hall of Transference","order":5,"parentId":0,"scrollX":777,"scrollY":484.5}
+]
